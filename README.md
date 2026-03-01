@@ -26,7 +26,7 @@ Research Fellow at <b>DST-TEC, Govt. of India</b>
 </em></p>
 
 [![Linkedin: vipulsinghparmar](https://img.shields.io/badge/-Vipul%20Singh%20Parmar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-singh-parmar/)
-[![Twitter](https://img.shields.io/badge/-ORG__XENO-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ORG_XENO)
+[![Twitter](https://img.shields.io/badge/-ORG__XENO-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/vipul_sparmar)
 [![Instagram](https://img.shields.io/badge/-vipul__s.parmar-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vipul_s.parmar/)
 
 
