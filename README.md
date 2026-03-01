@@ -38,8 +38,15 @@ Research Fellow at <b>DST-TEC, Govt. of India</b>
 ```python
 vipul = {
     "pronouns": "he/him",
-    "focus": ["Artificial Intelligence", "Machine Learning", "System Design"],
-    "languages": ["Python", "C", "SQL"],
+    "target_role": "AS/400 (IBM i) Developer | AI Researcher",
+    "focus": ["IBM i Architecture", "Artificial Intelligence", "System Design"],
+    "languages": ["RPGLE (Free-format)", "CLLE", "SQLRPGLE", "Python", "C", "SQL"],
+    "ibm_i_stack": [
+        "DB2/400 (DDS/DDL)",
+        "Subfiles & Interactive Programming (SDA)",
+        "ILE (Modules, Service Programs, Binding)",
+        "Batch Processing & Journaling"
+    ],
     "ml_stack": [
         "PyTorch",
         "Neural Networks",
@@ -49,6 +56,7 @@ vipul = {
         "Computer Vision (OpenCV)"
     ],
     "data_engineering": [
+        "Embedded SQL",
         "Pandas",
         "NumPy",
         "Selenium",
@@ -62,9 +70,11 @@ vipul = {
         "Optimization Basics"
     ],
     "currently_working_on": [
+        "AS/400 Modernization (RPGLE + Web Services)",
         "Forensic LLMs",
         "AI-powered Assistants",
         "Hall-Effect Hardware + Firmware"
     ],
-    "achievement": "Never lost a hackathon — every competition resulted in a win or podium finish 🏆"
+    "achievement": "Never lost a hackathon — 100% podium finish rate 🏆"
+}
 }
